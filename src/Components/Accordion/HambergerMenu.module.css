@@ -1,0 +1,25 @@
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+.nav-link:hover{
+    color: rgb(126, 127, 128);
+    transition: all 2s;
+    text-shadow: 2px 2px 2px;
+}
+
+.nav-bar{
+    list-style: none;
+    border-top: 1px solid rgb(212, 210, 210);
+    margin-right: -30px;
+    padding: 10px;
+}
+
+.nav{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.font{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: large;
+}

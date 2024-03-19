@@ -1,0 +1,26 @@
+.header{
+display: flex;
+background-color: rgb(242, 247, 247);
+padding: 15px;
+justify-content: space-between;
+font-family:Georgia, 'Times New Roman', Times, serif;
+direction: rtl;
+}
+
+.main{
+min-height: 75vh;
+padding:  20px 0px;
+display: flex;
+}
+
+.footer{
+background-color: black;
+color: white;
+padding: 20px;
+}
+
+.row{
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+}
